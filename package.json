@@ -19,7 +19,7 @@
   "homepage": "https://github.com/umireon/atlassian-connect-express-esModuleInterop#readme",
   "dependencies": {
     "@types/express": "^4.17.12",
-    "atlassian-connect-express": "git+https://umireon@bitbucket.org/umireon/atlassian-connect-express.git#without-tsconfig",
+    "atlassian-connect-express": "git+https://umireon@bitbucket.org/umireon/atlassian-connect-express.git#remove-typeof-from-classes",
     "express": "^4.17.1",
     "typescript": "^4.3.2"
   }
